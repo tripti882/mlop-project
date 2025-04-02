@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: mlop
+Version: 0.0.0
+Summary: A small python package for nlp app
+Home-page: https://github.com/tripti882/mlop-project
+Author: tripti882
+Author-email: triptij910@gmail.com
+Project-URL: Bug_Tracker, https://github.com/tripti882/mlop-project/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# MLOps Project
